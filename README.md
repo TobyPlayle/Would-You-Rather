@@ -2,7 +2,7 @@
 
 This project allows users to generate random would-you-rather questions centered around whether you would would rather fight a few large animals or many small animals. 
 
-e.g. Would you rather fight 2 gorilla-sized scorpions or 100 scorpion-sized gorillas?
+e.g. Would you rather fight 2 gorilla-sized scorpions or 64 scorpion-sized gorillas?
 
 # How it works
 
